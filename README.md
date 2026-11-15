@@ -1,6 +1,6 @@
 # Awesome-Enterprise-Contract-Tiered-Billing
 
-# Top Enterprise Contract & Tiered Billing Ecosystem
+## Top Enterprise Contract & Tiered Billing Ecosystem
 
 **Curated List of SaaS Platforms & Open-Source GitHub Projects**  
 *Focused on Usage-Based Rating, Tiered Pricing Engines & Self-Hosted Monetization Infrastructure*  
