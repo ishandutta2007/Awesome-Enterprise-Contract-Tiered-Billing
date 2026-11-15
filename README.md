@@ -61,9 +61,9 @@ The table below outlines established enterprise billing providers sorted in desc
 
 ## 💻 Open-Source Billing & Metering Projects
 
-Self-hosted, transparent, and API-first monetization infrastructure. Sorted by **GitHub Star Count (Descending)**.
+Self-hosted, transparent, and API-first monetization infrastructure. Sorted by **GitHub Stars_Count (Descending)**.
 
-| Project | Stars Badge | License | Description |
+| Project | Stars_Badge | License | Description |
 |---|---|---|---|
 | **[Lago](https://github.com/getlago/lago)** | [![Stars](https://img.shields.io/github/stars/getlago/lago?style=social&color=white)](https://github.com/getlago/lago/stargazers) | AGPL-3.0 | **Open-source metering and usage-based billing engine.** Provides modern subscription management, complex tiered rating, prepaid credits, overages, and payment orchestrations for AI and developer-first SaaS products. |
 | **[Invoice Ninja](https://github.com/invoiceninja/invoiceninja)** | [![Stars](https://img.shields.io/github/stars/invoiceninja/invoiceninja?style=social&color=white)](https://github.com/invoiceninja/invoiceninja/stargazers) | Elastic License 2.0 | **Popular open-source billing, invoicing, and payment processing suite.** Supports recurring billing, client portals, multi-currency accounting, and payment gateway integrations. |
